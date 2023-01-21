@@ -1,1 +1,2 @@
-# A single page public chatroom with user authentication built with React and Firebase Firestore.
+# Chat App
+A single page public chatroom with user authentication built with React and Firebase Firestore.
